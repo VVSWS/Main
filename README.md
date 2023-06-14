@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Valentin, 48 years old student xD
+- 👋 Hi, I’m Valentin, 49 years old student xD
 - 👀 I’m interested in C/C++
 - 🌱 I’m currently learning C/C++
 - 💞️ I’m looking to collaborate on C/C++ projects 
